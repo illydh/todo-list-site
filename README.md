@@ -1,12 +1,6 @@
 ##  Preamble
 
-As a college student, it becomes easy to lose track of priorities and deadlines as the semester develops.
-
-So, I developed this website that takes user-input to create a simple to-do list.
-
-What makes this site unique is that it remembers tasks after the user decides to leave the session.
-
-In other words, the site remembers your to-dos so you do not have to!
+As a college student, it becomes easy to lose track of priorities and deadlines as the semester develops. So, I developed this website that takes user-input to create a simple to-do list. What makes this site unique is that it remembers tasks after the user decides to leave the session. In other words, the site remembers your to-dos so you do not have to!
 
 ##  Getting started
 
